@@ -2,7 +2,7 @@
 
 # Desktop Mode
 
-![desktop-mode](https://user-images.githubusercontent.com/34331353/108684576-a9539900-7525-11eb-9f55-af4a1029f9ee.PNG)
+![desktop-mode](https://user-images.githubusercontent.com/34331353/108684978-25e67780-7526-11eb-95bb-2ce56fd3806f.PNG)
 
 # Mobile Mode
 
